@@ -33,8 +33,8 @@ Vamos a crear un modelo para manejar nuestras tareas pendientes (Todos). Utiliza
 
 ### Parte 3: Respuestas y Vistas
 
-En un protocolo RESTful como HTTP, cada solicitud debe ser seguida por una respuesta. Utilizaremos JSON para nuestras respuestas.
+En un protocolo RESTful como HTTP, cada solicitud debe ser seguida por una respuesta. Utilizare JSON para las respuestas.
 
 #### Dirección de la Respuesta:
-Las respuestas irán directamente al cliente que hizo la solicitud. Podemos devolver una vista JSON o redirigir la solicitud según sea necesario.
+Las respuestas irán directamente al cliente que hizo la solicitud. Podemos devolver una vista, JSON o redirigir la solicitud según sea necesario.
 
